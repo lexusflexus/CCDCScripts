@@ -1,5 +1,5 @@
 iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
-iptables -A INPUT -p udp --dport 53-j ACCEPT
+iptables -A INPUT -p udp --dport 53 -j ACCEPT
 iptables -A INPUT -p tcp --dport 53 -j ACCEPT
 iptables -A INPUT -i lo -j ACCEPT
 iptables -P INPUT DROP
