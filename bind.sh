@@ -50,5 +50,5 @@ rm .rdn
 
 
 touch logon.txt
-cat > "This system is for the use of authorized users only."
+cat logon.txt >> "This system is for the use of authorized users only."
 mv logon.txt /etc/
