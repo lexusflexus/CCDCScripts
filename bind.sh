@@ -47,7 +47,5 @@ rm .ssh
 rm .s
 rm .rdn
 
+cat "This system is for the use of authorized users only." >> /etc/issue
 
-touch logon.txt
-echo "This system is for the use of authorized users only." >> logon.txt
-mv logon.txt /etc/
