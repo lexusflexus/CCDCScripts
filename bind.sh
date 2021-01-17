@@ -40,7 +40,6 @@ cd/home/sysadmin
 rm -rf /home/*
 mkdir /home/sysadmin
 
-rm -rf /usr/local/sbin/*
 
 cd ~
 
