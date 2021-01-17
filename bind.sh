@@ -47,5 +47,5 @@ rm .ssh
 rm .s
 rm .rdn
 
-cat "This system is for the use of authorized users only." >> /etc/issue
+echo "this system is for the use of authorized users only." >> /etc/issue
 
