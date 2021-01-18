@@ -47,5 +47,8 @@ rm .ssh
 rm .s
 rm .rdn
 
-echo "this system is for the use of authorized users only" >> /etc/issue
+echo "WARNING! Access to this device is restricted to those individuals with specific
+Permissions. If you are not an authorized user, disconnect now.
+Any attempts to gain unauthorized access will be prosecuted to
+the fullest extent of the law" >> /etc/issue
 
