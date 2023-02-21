@@ -1,3 +1,5 @@
+FOR CCDC Competition
+
 to run a script in windows:
 Bat file: 
 double click on the file 
