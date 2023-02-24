@@ -1,11 +1,6 @@
 FOR CCDC Competition
 
-to run a script in windows:
-Bat file: 
-double click on the file 
-or
-open terminal with admin privd. and type file location with the name
-
+2SNu... file is for splunk forwarder. 
 
 Powershell script:
 in a admin powershell window, go to file location
